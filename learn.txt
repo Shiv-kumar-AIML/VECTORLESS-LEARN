@@ -1,0 +1,6 @@
+Libraries we use:
+
+Library	Purpose
+pdfplumber	extract text from PDF
+nltk	tokenization
+rank-bm25	keyword search (vectorless retrieval)
